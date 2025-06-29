@@ -1,0 +1,14 @@
+.toggle-mode {
+  background-color: var(--clr-brand);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.toggle-mode:hover {
+  background-color: #005bb5;
+}
